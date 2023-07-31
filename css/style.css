@@ -73,6 +73,12 @@ img {
     text-align: center;
 }
 
+@media (min-width: 767.98px) {
+    .footer-right {
+        text-align: right;
+    }
+}
+
 @media (max-width: 767.98px) {
     .live-alert-placeholder-small {
       margin-top: 20px;
@@ -81,5 +87,17 @@ img {
     .people-you-may-know-small {
       margin-top: 20px;
     }
+    body {
+        margin: 0;
+        padding: 0;
+        position: absolute;
+    }
+    .footer {
+        position: relative;
+        height: auto;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        margin: auto;
+    }
 }
-  
