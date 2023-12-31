@@ -2,7 +2,7 @@
 
 ![Prusa Social Logo](assets/logo.png)
 
-Prusa Social is a web application for connecting with peers, sharing updates, and networking with professionals. This README provides an overview of the application's structure and features.
+Prusa Social is a web application for connecting with peers, sharing updates, and networking with professionals. This README provides an overview of the application's structure and features. Go to [this link](https://burakunal28.github.io/prusa-social) to open the website.
 
 ## Table of Contents
 
@@ -52,7 +52,6 @@ To get started with Prusa Social, follow these steps:
 1. Open the `index.html` file in your web browser.
 2. Log in or create an account if required.
 3. Explore the various features of Prusa Social, such as viewing your profile, creating posts, and connecting with others.
-4. Go to [this](https://burakunal28.github.io/prusa-social) link to start the application.
 
 ## Contributing
 
